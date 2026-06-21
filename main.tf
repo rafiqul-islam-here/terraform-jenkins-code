@@ -2,7 +2,7 @@
 #   features {}
 # }
 
-# # Variables
+# # Variables are here
 # variable "location" {
 #   default = "Southeast Asia"
 # }
